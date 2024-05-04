@@ -1,0 +1,126 @@
+body {
+  background-color: skyblue;
+}
+
+.h2-center {
+  position: relative;
+  text-align: center;
+}
+
+.h2-center::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 2px;
+  background: linear-gradient(to right, #ff0000, #00ff00, #0000ff);
+  animation: gradientAnimation 5s infinite linear;
+}
+
+@keyframes gradientAnimation {
+  0% {
+    background-position: 0% 50%;
+  }
+  100% {
+    background-position: 100% 50%;
+  }
+}
+
+/* CSS for login box */
+#login-box {
+  margin: 0 auto;
+  margin-top: 100px;
+  width: 300px;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  border-width: 3px;
+  border-style: solid;
+  border-image: linear-gradient(to right, #ff0000, #00ff00, #0000ff) 1;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/* CSS for form inputs and labels */
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  color: #333;
+  font-weight: bold;
+}
+
+input.form-control {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  transition: border-color 0.3s;
+}
+
+input.form-control:focus {
+  outline: none;
+  border-color: #ff0000;
+}
+
+/* CSS for buttons */
+.btn {
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-success {
+  background-color: #ff0000;
+  color: white;
+  border: none;
+  transition: background-color 0.3s;
+}
+
+.btn-success:hover {
+  background-color: #ff0000;
+}
+
+.container {
+  padding: 30px;
+  margin-top: 50px;
+}
+
+.card {
+  margin-bottom: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.btn {
+  border-radius: 0;
+}
+
+.alert-danger {
+  border-radius: 10px;
+}
+
+.btn-dark {
+  margin-top: 1%;
+}
+
+.form-container {
+  background-color: #fff; /* White background */
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 30px;
+}
+
+.form-container h3 {
+  text-decoration: underline;
+  color: #343a40; /* Dark gray text */
+}
+
+.form-group label {
+  color: #343a40; /* Dark gray text */
+}
+
+.profile-card {
+  margin-top: 6%;
+}
