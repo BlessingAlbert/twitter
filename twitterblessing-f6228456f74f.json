@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "twitterblessing",
+  "private_key_id": "f6228456f74f8debc38f5103ccc371065445412a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCrc/tjzbWDIuB2\nJq+qHBN/o98TlccpZhdRlEDjfSONJQZFOU3iysvLPuxXwq76a2oYWJpMNx9tbeQl\niw5FYyd/gzXBeIyn2+/6B65QbhgYeWZYhZhsdv98lxGW0nzf4oF7Bbe+rUZtxCVh\n7vRZsNsFoPIvEUYRQoyYJPqsa29sE4e4hiGyfOYpTmMMbU73VnvsH8akOVOuej4H\nmpEqj01tEEBz8mJjJ7pm9qVIGG/KL0fLDlLQp60wtnCEzhbNyuht6jt1jVH09Q1K\nFAtPW1XMYMZJJTwZRzwSSJrJEi5bBzqFVdZoEIEZ5+zUZj2SmQ79tEfWimYkt4sG\n7xEqa4iPAgMBAAECggEAAxfi/57E5f2WS/HQVlYoI+b/YO/hP/+PiPFCNAu18H34\n6jBpr1KciqlmXWiUL5oKHmMhPyH5EMhcYJds30oCrgV4ATcwX0O6K910aUJGcDdm\n5huPvHIJLTF5WvdBOYJxdsuLnSBGY2r+iBD/mst0dPPw0QvGvKXIU5ZkApuNm+C9\nJgnqw5DRNigzphSBJpEk5aRnOOD6idN8GvbtQevNW1t3aobvulB1UKTzzMk6ZHU6\nGyXcPe8JfbroU0LK63L5BCSs9BsaTQlMCRvHZGdiCz9shFxwMQYZMiIOEG6zUeuQ\naE3TyWtVfsIR90ejhoTbysctOS3pnQMi5YuTstSDwQKBgQDgxPA1YOa4uYIvpHVd\nf3v//C7W8gDHvwICP7NUtdQOvaYjbBAdX0lXW7JjaUIncKGm4wfqTBahnGrggDlw\nTPXJVz4r1jILbmxwJvoKEuuNDkdHGK9Styjgf+sm33rgC9EhIrqq+UuCuFVYdmEG\np2ctfnN7/vOW2f0V1YnkDv03IwKBgQDDRpS1yKuo+3FlULnBWC3pqrkmU0KLrLF+\nSBzh27u/YwZwQhd5vuRbLyYyQHn3yjhgC7aEy5B6F6xJZkmGqtvGmRO/bn/+cPhG\nA0WLam2yAKPEWHATgKB5qN74DO7UPL8fIStudCf06+LKdkSxmg0BytJKNMnSH2//\nnGvVzyx1pQKBgBUQn+qAwF7Dk/3fDdjLX9WnzsP6PjR6JDgNvELOH6eaAn4DXKdE\nDN2RDHDgpoCHv76iPFWq99wBisqrebaan9ZUxNDa7CnCGYuRO5HCIC1CD1AMcjHw\nVHZlxqYH/74LnXfbh18KqhcAK4902LcE7ViIJ06RoEac+2kWcCvdc8G9AoGBAJgS\n+XDwTC8XUmISkfbukyLsX7BnGuXnoXq08jk6hGYx2ivGbL3VWcVhXJ+58sJ0a57w\nwD1+wo8yrGulCxGjMfDh+a0VgvxGQjNUDO7b/X2oXeFk9jNZ8p+MUchfWgdTH4xA\nqrAkKZHlugLuQ+UEEakZqNc9cQcAkJpB2QDzjK45AoGBAJN1VuW8P1qvUMTru3Up\nW4QO2ovGxDU4X7PHDz4sKALY0xJ2DnWlZ909oKywGQGMwisnbqQ5umAElTLSRxaZ\nZHFewdO+0LwXdr+9As//8/Oxxwqv64/EuhIbfLI2/dmSeNSPvAK3uCWkjkdrV8hd\nGP72DWRuOQxjWGXSD1K+KK+M\n-----END PRIVATE KEY-----\n",
+  "client_email": "twitterblessing@twitterblessing.iam.gserviceaccount.com",
+  "client_id": "117456266092344623624",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/twitterblessing%40twitterblessing.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
